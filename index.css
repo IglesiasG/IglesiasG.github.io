@@ -1,31 +1,49 @@
 body {
-  padding-top: 40px;
+  
 }
 
-.footer {
-  padding-top: 40px;
+.container {
+  margin-left: 200px;
+  margin-right: 200px;
+  font-family: 'Avenir Next';
+}
+
+.img-mac {
+  max-width: 100%;
+  width: auto;
+  height: auto;
   padding-bottom: 40px;
-  border-top: 1px solid #eee;
+}
+
+.img-headshot {
+  width: 10%;
+  height: 10%;
+  padding-bottom: 10px;
+  border-radius: 50%;
+  border:1px solid #eee;
 }
 
 .starter-template {
   padding-top: 40px;
   padding-bottom: 40px;
-  text-align: center;
   border-top: 1px solid #eee;
 }
 
-.test {
+.introPar {
 	width: 500px;
-	margin-left: auto;
-  	margin-right: auto;
-	text-align: justify;
+  text-align: justify;
 }
 
 .second-section {
   padding-top: 40px;
   padding-bottom: 40px;
   text-align: center;
+  border-top: 1px solid #eee;
+}
+
+.footer {
+  padding-top: 40px;
+  padding-bottom: 40px;
   border-top: 1px solid #eee;
 }
 

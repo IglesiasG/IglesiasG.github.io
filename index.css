@@ -1,11 +1,19 @@
 body {
   padding-bottom: 100px;
+  font-family: 'AvenirNext';
+}
+
+@font-face {
+  font-family: 'AvenirNext';
+  src: url('fonts/avenir-next-regular.eot');
+  src: url('fonts/avenir-next-regular.woff') format('woff'),
+      url('fonts/avenir-next-regular.svg') format('svg')
+      url('fonts/avenir-next-regular.ttf') format('truetype');
 }
 
 .container {
   margin-left: 15%;
   margin-right: 15%;
-  font-family: 'Avenir Next';
 }
 
 .img-mac {

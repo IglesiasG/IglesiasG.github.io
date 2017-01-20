@@ -1,11 +1,11 @@
 body {
   padding-bottom: 100px;
   font-family: 'Lato', sans-serif;
+   font-weight: 300;
 }
 
 @font-face {
   font-family: 'Lato';
-  font-weight: 100;
   src: url('https://fonts.googleapis.com/css?family=Lato');
 }
 

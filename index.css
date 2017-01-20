@@ -1,16 +1,12 @@
-body {
+/*body {
   padding-bottom: 100px;
-  font-family: 'avenir-next-regular';
+  font-family: 'Lato', sans-serif;
 }
 
 @font-face {
-  font-family: 'avenir-next-regular';
-  src: url('/fonts/avenir-next-regular.eot');
-  src: url('fonts/avenir-next-regular.eot?#iefix') format('embedded-opentype'), 
-      url('fonts/avenir-next-regular.woff') format('woff'),
-      url('fonts/avenir-next-regular.svg#avenir-next-regular') format('svg')
-      url('fonts/avenir-next-regular.ttf') format('truetype');
-}
+  font-family: 'Lato';
+  src: url('https://fonts.googleapis.com/css?family=Lato');
+}*/
 
 .container {
   margin-left: 15%;

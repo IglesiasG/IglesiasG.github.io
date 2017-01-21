@@ -45,8 +45,23 @@ body {
 .second-section {
   padding-top: 40px;
   padding-bottom: 40px;
-  text-align: center;
+  text-align: justify;
   border-top: 1px solid #eee;
+}
+
+.lead-top {
+  padding-bottom: 40px;
+  border-bottom: 1px solid #eee;
+}
+
+.lead {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  border-bottom: 1px solid #eee;
+}
+
+.lead-bottom {
+  padding-top: 40px;
 }
 
 .footer {
